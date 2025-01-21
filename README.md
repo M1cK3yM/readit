@@ -1,111 +1,76 @@
-# Flutter Starter
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# 📖 **Readit**  
+*The Discount Reddit That You Never Knew You Needed!*  
 
-## Introduction
+---
 
-We wanted to take Flutter a step further and accelerate the process of building production-level apps. Presenting our solution- [Flutter Starter](https://flutter-starter.github.io/)!
+## 🧐 **What is Readit?**
 
-<p align="center">
-<img src="/flutter_starter_kit.gif"  height="500"/>
-</p>
+Welcome to **Readit**, the platform where people come to argue over everything and anything! Inspired by Reddit, but with 50% fewer features and 100% more bugs. Think of us as the *knock-off brand* of Reddit. If Reddit is Coca-Cola, we’re... Cola Xtreme.
 
-Flutter Starter, as the name suggests, is a starter kit for Flutter that helps you bootstrap projects with all the essential modules like **State Management, API calls, Style Guide,** etc. It helps you build production ready apps in a jiffy. Handle everything at one place so you don't have to rewrite code.
+---
 
-## Motivation
+## ✨ **Features**  
+- 🔥 **Post Stuff**: Share your world-shattering memes, conspiracy theories, or your dog wearing sunglasses.  
+- 💬 **Comment Like a Boss**: Tell people they’re wrong in a thread that’s completely off-topic!  
+- 👍 **Upvotes & Downvotes**: Because everyone needs validation (or crushing rejection).  
+- 🏆 **Customizable Communities**: Create a group for your niche interests like "CatsWearingHats" or "PineapplePizzaApologists."  
 
-Flutter gives us a simple counter app on installation which works if you are just starting out. However, while building a production-level app, we need state-management, API calls, Styleguide and common widgets. We frequently repeat this code in every project.
+---
 
-Flutter Starter is based on the **DRY principle. Don't Repeat Yourself** is a programming principle that is aimed at reducing repetition and redundancy. 
+## 🚀 **Getting Started**
 
->:bulb: The **DRY principle** states that "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system".
+1. Clone this dumpster fire of a repo:  
+   ```bash
+   git clone https://github.com/your-username/readit.git
+   ```
+2. Navigate to the chaos:  
+   ```bash
+   cd readit
+   ```
+3. Um trying to figure it out
 
-Why is this useful? Applying the DRY principle helps code maintainability, improves development efficiency and much more!
+---
 
-## Features
+## 🛠️ **Tech Stack**  
+We built this masterpiece using:
+- **Flutter**: Because why not?  
 
-* **Folder Structure:** Flutter Starter comes with a well-defined folder structure. Devs can easily navigate it and add files where necessary.
+---
 
-* **Style Guide:** This kit helps you to build a Style Guide for your app. You can add your image and font assets, splash screen, color constants and theme data. These are available for use wherever required in your project.
+## 🐛 **Known Issues**
+- The app sometimes thinks upvotes are downvotes. Oops.  
+- The "hot" posts page might not actually show *hot* posts.  
+- Spelling mistakes. Like *Readit*.  
 
-* **API Calls:** The starter kit includes all the files you need for API handling. You can choose from [REST](https://restfulapi.net/), [GraphQL](https://graphql.org/) and [Firebase](https://firebase.google.com/) depending on your project.
+---
 
-* **State Management:** Flutter Starter contains all the state management files, models and repositories for your app. We will use [Bloc](https://pub.dev/packages/bloc) for state management. 
+## 📢 **Contribute**
+Want to help us turn this into a real competitor to Reddit? (Spoiler: It won’t.)  
+1. Fork it.  
+2. Code like a wizard.  
+3. Submit a PR and prepare to defend your code in the comments.  
 
-* **Routers & Dependencies:** This kit allows you to quickly add routers for your app screens. Dependencies can also be added to your app by simply copy-pasting the install version from [pub.dev](https://pub.dev/) into the designated file.
+---
 
-* **Testing & Deployment:** Lastly, you can test and deploy your app smoothly using Flutter Starter! Go to the test folder, add your test files and start writing test cases. Check out the [Android](https://flutter.dev/docs/deployment/android) or [iOS](https://flutter.dev/docs/deployment/ios) pages to deploy your app.
+## 👀 **Screenshots**
+*Placeholder for screenshots because we’re too lazy to take them right now.*
 
-## Installing & Usage
+---
 
-Go to [Flutter](https://flutter.dev/docs/get-started/install) and install Flutter on your system. Proceed to our [Github repository](https://github.com/GeekyAnts/flutter-starter) and create a template.
+## 🥳 **Why Use Readit?**
+- You like underdogs.  
+- You’re tired of Reddit's ads and think this is better (spoiler: it’s not).  
+- You’re bored, and it’s 2 a.m.
 
-To run the project, run:
-```
-bash run_script.sh
-```
+---
 
->:bulb: You can build apps with Flutter using any text editor combined with our command-line tools. We use VS Code since it is lightweight.
+## ✉️ **Contact Us**
+If you find bugs (you will), or just want to roast us:  
+📧 Email: support@readit.fake  
+🐦 Twitter: @ReaditNotReddit  
 
-## Examples
+---
 
-Here are some of the example apps made using Flutter Starter:
+**Disclaimer:** Readit is not affiliated with Reddit. Any similarities are purely coincidental... and intentional.  
 
-- [HackerNews App](https://flutter-starter.github.io/docs/hacker-news-example)
-
-<p align="center">
-<img src="/hacker_news.gif"  height="500"/>
-</p>
-
-
-- [GithubRepo List App](https://flutter-starter.github.io/docs/github-repo-list-example)
-
-<p align="center">
-<img src="/github_repo_list.gif"  height="500"/>
-</p>
-
-- [Weather App](https://flutter-starter.github.io/docs/weather-app-example)
-
-<p align="center">
-<img src="/weather_app.gif"  height="500"/>
-</p>
-
-## Tech Stack
-
-Flutter, Firebase, GraphQL, REST and Bloc.
-
-## Naming Conventions
-
-* **Variables:** camelCase
-* **Classes:** PascalCase
-* **Files:** snake_case
-
-## Build Status
-[Check out our roadmap here.](https://trello.com/b/wxSMZP1H/flutter-starter)
-
-
-## Contributors 
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/><br /><sub><b>Sumant Raj</b></sub></a><br /><a href="https://github.com/GeekyAnts/flutter-starter/commits?author=raj2611" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/madhav23bansal"><img src="https://avatars0.githubusercontent.com/u/52946553?v=4" width="100px;" alt=""/><br /><sub><b>madhav23bansal</b></sub></a><br /><a href="https://github.com/GeekyAnts/flutter-starter/commits?author=madhav23bansal" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## How to Contribute
-
-Thank you for your interest in contributing to Flutter Starter! We are lucky to have you 🙂 Head over to [Contribution Guidelines](https://github.com/GeekyAnts/flutter-starter/blob/master/CONTRIBUTING.md) and learn how you can be a part of a wonderful, growing community.
-
-## License
-
-Licensed under the MIT License, Copyright © 2020 GeekyAnts.
-See [LICENSE](https://github.com/GeekyAnts/flutter-starter/blob/master/LICENSE) for more information.
+🎉 **Happy Reading, or Arguing, or Whatever!**
